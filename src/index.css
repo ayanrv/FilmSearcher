@@ -1,0 +1,96 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+
+a{
+    font-size: x-large;
+    margin-left: 10px;
+}
+input{
+    width: 200px;
+    border-radius: 10px;
+    font-size: large;
+    height: 50px;
+    padding-left: 10px;
+    outline: none;
+    
+}
+select{
+    font-size: large;
+    height: 50px;
+    padding: 10px;
+    border-radius: 10px;
+    width: 200px;
+}
+
+header{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+p{
+    padding: 0;
+    margin: 0;
+    font-size: xx-large;
+}
+
+.main{
+    
+    display: flex;
+    
+
+    justify-content: space-between;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.search{
+    padding: 5px;
+}
+
+.searching{
+    display: flex;
+    gap: 20px;
+    width: fit-content;
+}
+.searching button{
+    font-size: x-large;
+}
+.mylist{
+    
+    width: fit-content;
+    height: fit-content;
+    padding: 5px;
+    
+}
+.list{
+    border:  2px solid black
+}
+
+.app-name{
+    text-align: center;
+}
+
+.list-div{
+    display: flex;
+    flex-direction: column;
+}
+
+.list-div button{
+    width: fit-content;
+    margin-top: 20px;
+    padding: 5px;
+    font-size: large;
+}
+.list-div a{
+    width: fit-content;
+    margin-top: 20px;
+}
