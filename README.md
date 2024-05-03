@@ -1,5 +1,7 @@
 # FilmSearcher
 
+'npm start' to run the project
+
 ---Overview:
 I have developed a mini project (This is more of an outline than a finished project) that leverages modern web technologies to create a dynamic and interactive movie app. This app allows users to search for films and receive suggestions based on their input, view film posters, create and manage lists of films, and review the contents of their lists in a separate window.
 
